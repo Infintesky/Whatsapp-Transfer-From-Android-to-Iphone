@@ -22,5 +22,5 @@ Steps to transfer all whatsapp data on Andriod smartphone to Iphone
 7. Remember to turn "Find my iPhone" back on.
 
 ### File hashes (MD5)
-99C5AAA261CB0D8FFB7D6B930E6795CC    Backup_Software.exe\n
-E2D3D36E0099C32F8B6D85AEEA57C66F    DrFoneToolKit.exe
+1. 99C5AAA261CB0D8FFB7D6B930E6795CC    Backup_Software.exe
+2. E2D3D36E0099C32F8B6D85AEEA57C66F    DrFoneToolKit.exe
